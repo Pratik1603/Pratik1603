@@ -24,7 +24,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<a href="https://instagram.com/pra_tik2003" target="blank"><img align="center" src="https://o.remove.bg/downloads/455a8057-8522-4b45-ac39-d8bd3a48fd81/I-removebg-preview.png" alt="pra_tik2003" height="50" width="50" /></a>
+ <a href="https://www.linkedin.com/in/pratik-gupta-8a34a2229/" target="blank"><img align="center" src="https://wordvice-wp-static.s3-ap-northeast-1.amazonaws.com/uploads/2019/01/LinkedIn_HP.jpg" alt="pratik gupta" height="50" width="50" /></a>
+ 
+ <a href="https://www.hackerrank.com/pratikgupta1603" target="blank"><img align="center" src="https://th.bing.com/th/id/R.bfde88bb8b90700f97f29bddcd084673?rik=sKRRzBnamE5pvw&pid=ImgRaw&r=0" alt="pratikgupta1603" height="50" width="50" /></a>
+ 
+ <a href="https://www.leetcode.com/pratikgupta1603" target="blank"><img align="center" src="https://th.bing.com/th/id/R.ca674b5186b28e2b0edae538ee5388d0?rik=pTPV%2fVCgvW%2bSlQ&pid=ImgRaw&r=0" alt="pratikgupta1603" height="50" width="50" /></a>
+ 
+ <a href="https://auth.geeksforgeeks.org/user/pratikgupta1603" target="blank"><img align="center" src="https://o.remove.bg/downloads/56f85560-ee62-4a33-a264-fecd9700b115/image-removebg-preview.png" alt="pratikgupta1603" height="50" width="50" /></a>
 
 </p>
 
