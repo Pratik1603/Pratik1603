@@ -5,17 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik1603&label=Profile%20views&color=0e75b6&style=flat" alt="pratik1603" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **Data Structures & Backend**
+- 🔭 I’m currently working on **Blockchain Development**
 
 - 👯 I’m looking to collaborate on **Open source platforms**
 
-- 🤝 I’m looking to help for **Saving the world 🌍🌍**
+- 🤝 I’m looking to help for **Saving the world 🌍🌍 with advent of decentralisation**
 
 - 👨‍💻 All of my projects are available at [Pratik1603](Pratik1603)
 
-- 💬 Ask me about **Firebase,Android Studio📱**
+- 💬 Ask me about **NFT,Cryptocurrency, Bitcoin ,Daaps**
 
 - 📫 How to reach me **pratikgupta@gmail.com**
 
